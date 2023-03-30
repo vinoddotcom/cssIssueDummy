@@ -1,4 +1,4 @@
-import { getWorkerInstance } from '@/utils/workerGenerator';
+import { getWorkerInstance } from '@/helper/workerGenerator';
 
 
 export default defineNuxtPlugin((nuxtApp) => {

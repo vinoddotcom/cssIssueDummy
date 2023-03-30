@@ -11,9 +11,5 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.6.5",
     "nuxt": "^3.3.2"
-  },
-  "dependencies": {
-    "comlink": "^4.4.1",
-    "worker-plugin": "^5.0.1"
   }
 }

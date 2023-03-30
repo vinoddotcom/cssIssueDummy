@@ -4,8 +4,5 @@
   </div>
 </template>
 <script setup lang="ts">
-const { data, pending, refresh } = await useAsyncData(async () => {
- return "hello, world!"
-  })
   onMounted(() => console.log("Hello, world!"))
 </script>
